@@ -12,7 +12,10 @@ h1{
     border-left:#f885f8 5px;
     padding-left: 5px;
     margin-bottom:20px;
-    float: left;
+}
+
+img script{
+    float: right;
 }
 
 h2{

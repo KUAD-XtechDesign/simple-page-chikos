@@ -5,6 +5,7 @@ $(function(){
         $("#slide").slideToggle();
     })
 
-    $("#slide").slick();
+    $("#slide").slick(
+        {dots:true});
 
 });

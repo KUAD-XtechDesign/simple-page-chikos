@@ -1,6 +1,7 @@
 body{
     background-color: #e6ff59;
     color: blueviolet;
+    
 }
 
 .wrapper{
@@ -14,6 +15,10 @@ body{
 }
 img{
     max-width: 100%;
+}
+
+.slidebtn{
+    
 }
 
 

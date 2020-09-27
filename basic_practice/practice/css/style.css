@@ -1,12 +1,13 @@
 body{
-    background-color: #dcdcdc;
+    background-color: #e6ff59;
 }
 
 .wrapper{
     width: 1000px;
 
     margin: 30px auto;
-    background-color: #fff;
+    background-color: #e6ff59;
+
     margin: 30px auto;
     text-align: center;
 }

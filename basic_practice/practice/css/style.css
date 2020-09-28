@@ -18,7 +18,7 @@ img{
 }
 
 .slick-dots li.slick-active button:before {
-    opacity: 9;
+    opacity: 90;
     color: blueviolet;
 }
 .slick-dots li button:before {
@@ -32,7 +32,7 @@ img{
 
 }
 .slick-prev:before{
-    opacity: 51;
+    opacity: 50;
     color: blueviolet;
 }
 

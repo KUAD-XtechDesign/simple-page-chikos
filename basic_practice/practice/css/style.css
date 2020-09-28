@@ -17,7 +17,10 @@ img{
     max-width: 100%;
 }
 
-
+.slick-dots li.slick-active button:before {
+    opacity: 90;
+    color: blueviolet;
+}
 
 
 

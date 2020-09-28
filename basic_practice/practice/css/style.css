@@ -21,7 +21,14 @@ img{
     opacity: 90;
     color: blueviolet;
 }
+.slick-dots li button:before {
+    opacity: 50;
+    color: blueviolet;
+  
+}
 
+
+}
 
 
 
